@@ -1,9 +1,4 @@
 1
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ..........................
-
-
-
 2
 3
 4
